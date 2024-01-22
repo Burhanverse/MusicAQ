@@ -16,14 +16,14 @@ Music Player
 
 #---------- PLAYER ----------#
 
-alt = Happy Moments (Master) Album Poster
+alt = Anubhav Hiya
 
 Happy Moments (Master)
 
-No Spirit
+Single
 2022
 
-No Spirit x Tonion
+KARAN DAS
 
 0:00
 1:00
